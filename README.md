@@ -69,5 +69,5 @@ Bon format MagicEden : https://magiceden.io/launchpad/...</pre>
 <img src="https://user-images.githubusercontent.com/111633151/185929124-c7431257-ac02-47be-b52a-01583a496a6f.png">
 <br>
 <code>Conseils & Avertissements</code>
-<pre>1 : Lancez le programme 20 min avant le mint au cas ou ou il y aurait un bug<br>2 : Le programme mint sans se soucier de vos sols, donc si vous voulez en prendre qu'un Mint, mettez la somme voulu + les taxes (environ 0.02) uniquement sur votre wallet</pre>
+<pre>1 : Lancez le programme 20 min avant le mint au cas ou ou il y aurait un bug<br>2 : Le programme mint sans se soucier de vos sols, doncsi vous ne voulez pas en prendre plusieurs mint, mettez la somme voulu + les taxes (environ 0.02 / nft) uniquement sur votre wallet</pre>
 
