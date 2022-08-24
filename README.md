@@ -21,6 +21,7 @@
 <p>Cet outil permet de Mint au centième de seconde un NFT sur <code>LaunchMyNft</code> avec un wallet <code>Slope</code></p>
 <h2 dir="auto">🤖 A Propos</h2>
 <p>LaunchMyNft est un Programme Gratuit et OpenSource, toutefois si le bot vous a servi, vous pouvez faire une donation au dévelopeur : <code>dogevr#9999</code></p>
+<p>Veuillez d'abord rejoindre le Discord du Bot avant l'installation : <code>https://discord.gg/chUfPs5Ppq</code></p>
 <h2 dir="auto">🛠️ Installation</h2>
 <p>Si vous avez le moindre soucis pour l'installation ou vous ne comprenez pas contactez moi sur discord <code>dogevr#9999</code></p>
 <br>
