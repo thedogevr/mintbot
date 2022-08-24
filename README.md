@@ -7,7 +7,7 @@
 <a href="https://www.python.org/downloads/">
 <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg">
 </a>
-<a href="https://discordapp.com/users/965580118154154004">
+<a href="https://discord.gg/chUfPs5Ppq">
 <img src="https://badgen.net/badge/icon/discord?icon=discord&label">
 </a>
 <a href="https://twitter.com/capyfansol">
@@ -17,9 +17,10 @@
 <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github">
 </a>
 </p>
-<img src="https://user-images.githubusercontent.com/111633151/185896750-066b180f-d92e-4875-97b0-1a8d161f3e5b.png">
 <h4 align="left">Agacé de vous faire prendre votre Mint par des Robots 🤖 ?</h3>
-<p>Cet outil permet de Mint au centième de seconde un NFT sur les platformes <code>LaunchMyNft</code> & <code>Magic Eden</code> avec un wallet <code>Slope</code></p>
+<p>Cet outil permet de Mint au centième de seconde un NFT sur <code>LaunchMyNft</code> avec un wallet <code>Slope</code></p>
+<h2 dir="auto">🤖 A Propos</h2>
+<p>LaunchMyNft est un Programme Gratuit et OpenSource, toutefois si le bot vous a servi, vous pouvez faire une donation au dévelopeur : <code>dogevr#9999</code></p>
 <h2 dir="auto">🛠️ Installation</h2>
 <p>Si vous avez le moindre soucis pour l'installation ou vous ne comprenez pas contactez moi sur discord <code>dogevr#9999</code></p>
 <br>
@@ -29,10 +30,13 @@
 <code>2 - Installer Winrar</code>
 <pre>win-rar.com/postdownload.html?&L=10</pre>
 <br>
-<code>3 - Télécharger FastMintBot.rar</code>
-<pre>win-rar.com/postdownload.html?&L=10</pre>
+<code>3 - Installer Google Chrome</code>
+<pre>google.fr/chrome/</pre>
 <br>
-<code>4 - Extraire FastMintBot.rar</code>
+<code>4 - Télécharger FastMintBot.rar</code>
+<pre>github.com/thedogevr/mintbot/blob/main/fastmintbot.rar</pre>
+<br>
+<code>5 - Extraire FastMintBot.rar</code>
 <pre>click droit > extraire ici</pre>
 <br>
 <p dir="auto">⚡ Installation Terminée</p>
@@ -41,31 +45,26 @@
 <p dir="auto">Si vous avez le moindre soucis avec FastMintBot ou vous ne comprenez pas contactez moi sur discord <code>dogevr#9999</code></p>
 <br>
 <code>Etape 1 - Rentrer le lien du mint dans le bon format</code>
-<pre>Bon format LaunchMyNft : https://www.launchmynft.io/collections/...<br>
-Bon format MagicEden : https://magiceden.io/launchpad/...</pre>
-<img src="https://user-images.githubusercontent.com/111633151/185923869-0bb34a6b-7674-4aa3-a875-3f49e15b34ed.png">
+<pre>Bon format LaunchMyNft : https://www.launchmynft.io/collections/...</pre>
+<img src="https://user-images.githubusercontent.com/111633151/186375104-224576e1-c998-4d5a-a2c1-9c095a570fe3.png">
 <br>
 <code>Etape 2 - Rentrer la seed de votre wallet</code>
-<pre>Format Seed : tortoise exercise riot cover wagon mail admit derive scout impose toast...</pre>
-<img src="https://user-images.githubusercontent.com/111633151/185925191-795f447d-98a2-4480-a86d-016989329d12.png">
+<pre>Format Seed : fork run ghost pizza rain father feature climb erosion peace glory glory</pre>
+<img src="https://user-images.githubusercontent.com/111633151/186375421-342b6ea3-2011-4bf1-a117-94a47b89e529.png">
 <br>
 <code>Etape 3 - Rentrer l'heure du Mint - 2 secondes</code>
 <pre>Exemple : le Mint est a 18:30:00 > vous mettrez 18 dans la première case, 29 dans la deuxième puis enfer 58 dans la troisième (18h29m58s)</pre>
-<img src="https://user-images.githubusercontent.com/111633151/185926521-3d829a6d-0356-469e-adf1-e4a25e9fafe2.png">
+<img src="https://user-images.githubusercontent.com/111633151/186375727-750f7632-07c2-4c59-8dd8-fa42c450de9d.png">
 <br>
-<code>Etape 4 - Choisir la platforme du mint</code>
-<pre>Rien a dire de plus, cochez LaunchMyNft ou MagicEden</pre>
-<img src="https://user-images.githubusercontent.com/111633151/185927439-a8a1f962-4467-49f2-95ad-5ce046ad3bc6.png">
-<br>
-<code>Etape 5 - Appuyez sur Confirmer</code>
+<code>Etape 4 - Appuyez sur Confirmer</code>
 <pre>❗Avertissement : Ne mettez pas d'espace ou tout autre chose qui ne devrait pas etre la (par exemple ne mettez pas pour l'heure 18z 34 32, le z ferait bug le programme)</pre>
-<img src="https://user-images.githubusercontent.com/111633151/185928153-39b76d69-88a4-44bc-9a28-c827faa65a44.png">
+<img src="https://user-images.githubusercontent.com/111633151/186376568-5cc4e13a-257e-43fa-ba68-d38ecb8a04fa.png">
 <br>
-<code>Etape 6 - Verifiez les informations avant de lancer</code>
+<code>Etape 5 - Verifiez les informations avant de lancer</code>
 <pre>Rien de plus à dire</pre>
-<img src="https://user-images.githubusercontent.com/111633151/185928881-4fcccbdb-b767-4efd-9ce9-f351b3a2db56.png">
-<code>Etape 7 - Lancer le Bot</code>
-<pre>Une fois le programme lancé ne touchez a rien (vous pouvez quand même regarder le processuss) jusqu'à au moins 2 min après l'heure du mint (pour que le programme puisse bien mint<br>Si la fenêtre chrome se ferme, ou que le programme ne s'est pas connecté au Wallet, c'est qu'il y a un bug !</pre>
+<img src="https://user-images.githubusercontent.com/111633151/186377007-e6e900dc-19e9-444c-9bba-56c47f28fc83.png">
+<code>Etape 6 - Lancer le Bot</code>
+<pre>Une fois le programme lancé ne touchez a rien (vous pouvez quand même regarder le processuss) jusqu'à au moins 2 min après l'heure du mint (pour que le programme puisse bien mint)<br>Si la fenêtre chrome se ferme, ou que le programme ne s'est pas connecté au Wallet, c'est qu'il y a un bug !</pre>
 <img src="https://user-images.githubusercontent.com/111633151/185929124-c7431257-ac02-47be-b52a-01583a496a6f.png">
 <br>
 <code>Conseils & Avertissements</code>
